@@ -1,2 +1,1 @@
-# JavaScript-beginner-note
- 
+# my Personal JavaScript-beginner-note
